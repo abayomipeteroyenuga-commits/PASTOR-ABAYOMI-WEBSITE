@@ -1,0 +1,15 @@
+{
+  "name": "PASTOR ABAYOMI BIBLE STORIES",
+  "short_name": "Bible Stories",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#071b3b",
+  "icons": [
+    {
+      "src": "assets/images/logo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}

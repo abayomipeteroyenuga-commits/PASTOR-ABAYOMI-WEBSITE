@@ -1,0 +1,1 @@
+window.SITE_CONFIG={social:{facebook:"https://www.facebook.com/PastorAbayomiBibleStories",tiktok:"",instagram:"",youtube:"https://www.youtube.com/@abayomibiblestories"},apps:{bibleApp:"https://bibleapp.pastorabayomibiblestorykids.org",devotion:"https://devotion.pastorabayomibiblestorykids.org",games:"https://games.pastorabayomibiblestorykids.org"}};
